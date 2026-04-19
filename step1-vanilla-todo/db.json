@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "task": "Review product cards idea", "completed": true },
+    { "id": 2, "task": "Plan shopping cart features", "completed": false },
+    { "id": 3, "task": "Prepare step 3 Amazon-style UI", "completed": false }
+  ]
+}
