@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "task": "Convert project to React", "completed": true },
+    { "id": 2, "task": "Add Bootstrap styling", "completed": true },
+    { "id": 3, "task": "Support editing item names", "completed": false }
+  ]
+}
